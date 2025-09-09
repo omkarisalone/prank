@@ -8,7 +8,7 @@ def print_skin_tool():
     """Print YE LE TERA SKIN TOOL🤣🖕🏻 repeatedly until audio ends"""
     while not audio_finished:
         print("YE LE TERA SKIN TOOL🤣🖕🏻")
-        time.sleep(0.2)  # Adjust speed as needed
+        time.sleep(0.1)  # Adjust speed as needed
 
 # Global flag to track audio status
 audio_finished = False
